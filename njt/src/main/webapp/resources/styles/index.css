@@ -1,0 +1,24 @@
+
+body {
+   background-color:#ABA5A5;
+   background-color-opacity: 50%; 
+   background-image: url("../images/giphy.gif");
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-position: center; 
+}
+footer {
+  background-color:#212324;
+  background-color-opacity: 50%; 
+  position: fixed;
+  margin-top: 2%;
+  height: 5%;
+  width: 100%;
+  text-align: center;
+  font-size: 0.8em;
+  bottom: 0;
+}
+ #footer p {
+     color:  #ABA5A5;
+     border-top-color: black;
+ }

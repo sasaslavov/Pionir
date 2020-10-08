@@ -1,0 +1,50 @@
+
+body {
+   background-color:#ABA5A5;
+   background-color-opacity: 50%; 
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-position: center; 
+}
+footer {
+  background-color:#212324;
+  position: fixed;
+  margin-top: 2%;
+  height: 3%;
+  width: 100%;
+  text-align: center;
+  font-size: 0.8em;
+  bottom: 0;
+  border: 1px solid black;
+}
+ #body th {
+     color:  white;
+ }
+ #footer p {
+     color:  #ABA5A5;
+ }
+ #body b{
+  background-color: #ABA5A5;
+ }
+table, th, td {
+  background-color:#ABA5A5;
+  border: 2px solid black;
+}
+
+.list-group-item {
+  background-color:#ABA5A5;
+  border-width: 2px;
+  border-bottom-color: black;
+  border-top-color: black;
+  border-left-color: black;
+  border-right-color: black;
+}
+
+.form-group{
+  background-color:#ABA5A5;
+  border-width: 2px;
+  border-bottom-color: black;
+  border-top-color: black;
+  border-left-color: black;
+  border-right-color: black;
+}
